@@ -1,0 +1,215 @@
+.container-fluid {
+    padding: 7% 12%;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: gray;
+    line-height: 2.5;
+}
+
+hr {
+    border-bottom: solid;
+    width: 50%;
+    border-width: 1px;
+    border-color: lightgray;
+}
+
+h2 {
+    font-size: 3rem;
+}   
+
+
+.brand-Dive {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    color: rgb(10, 1, 26);
+}
+
+/*Title section*/
+    /*Nav bar*/
+    .bav-bar {
+        padding: 0;
+    }
+    
+    .menu-left {
+        padding:  0 2%;
+    }
+    
+    .nav-link {
+        font-size: 1.2rem;
+        font-weight: 700;
+    }
+    
+    .navigation {
+        padding: 3% 12% 0 12%;
+    }
+
+
+
+
+
+    /*Title-Carousel selectors*/
+    .carousel {
+        margin: 0 5%;
+    }
+
+    .carousel-item h3{
+        position: absolute;
+        bottom: 30%;
+        left: 20%;
+        font-size: 3rem;
+        font-weight: 700;
+    }
+
+    .carousel-item p {
+        position: absolute;
+        bottom: 10%;
+        left: 45%;
+        font-size: 1.2rem;
+    }
+
+    .slide3 h3 {
+        color: #0c99c1;
+    }
+
+    .slide3 p {
+        color: #0c99c1;
+    }
+
+    .carousel-item {
+
+        height: 25rem;
+        width: 100%;
+        color: #ffffff;
+    }
+
+    .carousel-indicators li {
+        width: 10px;
+        height: 10px;
+        border-radius: 100%;
+        margin: 0 0.5rem;
+    }
+
+    .slide1 {
+        background-image: url(./img/dive-img2.jpg); 
+        background-position-x: center;
+
+    }
+
+    .slide2 {
+        background-image: url(./img/dive-img3.jpg); 
+    }
+
+    .slide3 {
+        background-image: url(./img/dive-img4.jpg); 
+        background-position-y: bottom;
+    }
+
+/*Feature section*/
+    /*Intro*/
+    .intro {
+        padding: 3% 12%;
+        color: gray;
+    }
+    
+    .ingrediant h3 {
+        font-size: 1rem;
+        font-weight: 700;
+        line-height: 2;
+        color: rgb(78, 76, 76);
+    }
+
+    .ingrediant {
+        line-height: 1;
+        font-size: 0.6rem;
+
+    }
+
+    .yes {
+        font-family: 'Cookie', cursive;
+        color: #0c99c1;
+        font-size: 3rem;
+    }
+
+    .ph {
+        color: #ffa0d2;
+    }
+
+    .mineral {
+        font-weight: bold;
+    }
+
+
+
+
+
+/*Product section*/
+.plastic-product {
+    background: linear-gradient(white, 92%, #cbf1f5);
+    padding: 0 20%;
+}
+
+.glass-product {
+    background: linear-gradient(white, 92%, #cbf1f5);
+    padding: 10% 20% 0 20%;
+}
+
+
+.range {
+    font-size: 0.6rem;
+}
+
+.bottledwater-img {
+    padding: 8%;
+}
+
+.bottledwatertitle  {
+    padding: 20% 0 0 0;
+}
+
+.production-heading {
+    font-size: 3rem;
+    font-weight: 700;
+    color:rgb(78, 76, 76);
+    font-family: 'Amatic SC', cursive;
+
+}
+.production-p {
+    color: #0c99c1;
+}
+
+.bottledwatertitle {
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+/*foot*/
+
+.fab {
+    color: #0c99c1;
+    padding: 1%;
+} 
+
+#footer {
+    font-size: 0.8rem;
+    padding: 3% 0 0 0;
+    line-height: 1;
+    
+}
+
+/*Buy*/
+#Buy{
+    background:linear-gradient(white, 92%, #cbf1f5)
+}
+
+#Buy .container-fluid {
+    padding: 10% 20% 0 20%;
+}
+
+
+
+
+
+
